@@ -2,3 +2,11 @@ ul{
     list-style: none;
     
 }
+h1{
+    text-align: center;
+    color:navy;
+}
+body{
+    background-color: olive
+}
+button{background-color: rgb(6, 59, 30)}
